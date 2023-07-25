@@ -1,4 +1,4 @@
-# Image Filter FastAPI Application
+# Image Filter FastAPI AI Application
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.68.0-green)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6.0-orange)
