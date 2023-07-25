@@ -32,6 +32,8 @@ pip install -r requirements.txt
 
 ```bash
 docker build -t image_filter_app .
+```
+```bash
 docker run -d -p 80:80 --name image_filter_container image_filter_app
 ``` 
 ### The application will be accessible at http://localhost/classify/ as POST for image classification.
