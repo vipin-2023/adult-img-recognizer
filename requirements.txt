@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+aiohttp
+opencv-python
+tensorflow==2.6.0
+tfhub-nightly

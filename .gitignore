@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Virtual environment
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+*.env
+*.db
+*.sqlite
+*.pyc
